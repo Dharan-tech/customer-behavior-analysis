@@ -26,6 +26,3 @@ This project analyzes customer transaction data to identify purchase patterns, s
 3. Provide exclusive offers to Best Customers  
 4. Use personalized marketing campaigns  
 5. Increase engagement through promotions  
-## 📁 Files
-- `Customer_Analysis.ipynb` → Full analysis  
-- `Alfido - Task 1.pdf` → Final report  
